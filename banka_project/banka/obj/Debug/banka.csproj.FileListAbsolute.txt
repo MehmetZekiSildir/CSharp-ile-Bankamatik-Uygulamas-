@@ -1,0 +1,8 @@
+C:\Users\mehme\Desktop\bankamatik_ödevi\banka_project\banka\bin\Debug\banka.exe.config
+C:\Users\mehme\Desktop\bankamatik_ödevi\banka_project\banka\bin\Debug\banka.exe
+C:\Users\mehme\Desktop\bankamatik_ödevi\banka_project\banka\bin\Debug\banka.pdb
+C:\Users\mehme\Desktop\bankamatik_ödevi\banka_project\banka\obj\Debug\banka.csproj.AssemblyReference.cache
+C:\Users\mehme\Desktop\bankamatik_ödevi\banka_project\banka\obj\Debug\banka.csproj.SuggestedBindingRedirects.cache
+C:\Users\mehme\Desktop\bankamatik_ödevi\banka_project\banka\obj\Debug\banka.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\bankamatik_ödevi\banka_project\banka\obj\Debug\banka.exe
+C:\Users\mehme\Desktop\bankamatik_ödevi\banka_project\banka\obj\Debug\banka.pdb
